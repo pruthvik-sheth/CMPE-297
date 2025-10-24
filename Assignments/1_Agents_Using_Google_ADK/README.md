@@ -1,29 +1,69 @@
 # AI Agents Using Google ADK
 
-This assignment implements AI agents using Google's Agent Development Kit (ADK).
+Complete implementation of Google ADK codelabs and hackathon projects demonstrating multi-agent AI systems from prototypes to production.
 
-## Demo Video
-🎥 [Watch Demo](https://youtu.be/e_mXLbjDS_A)
+## About This Project
 
-## Master Class Reference
-📚 [ADK Master Class](https://youtu.be/P4VFL9nIaIA?si=-wpIAXKzxfHiM0ZL)
+This repository showcases the full journey of building AI agents with Google's Agent Development Kit (ADK) - from simple prototypes to sophisticated multi-agent systems. Each implementation includes working code, comprehensive documentation, and video demonstrations.
 
-## Structure
+## What You'll Learn
 
-### Part A: ADK Codelabs Implementation
-1. **Prototypes to Agents** - Basic agent development with ADK
-2. **AI Agents with Tools** - Empowering agents with tool capabilities
-3. **Travel Agent with MCP** - Database integration using MCP Toolbox
+- **Agent Development Fundamentals**: Core ADK concepts and agent lifecycle management
+- **Tool Integration**: Custom functions, built-in tools, and external API connections
+- **Multi-Agent Orchestration**: Complex workflows and agent-to-agent communication
+- **Database Integration**: MCP Toolbox for secure database interactions
+- **Production Deployment**: Cloud-ready agent systems with proper authentication
 
-### Part B: Hackathon Agent Application
-Implementation of an agent from the [awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) repository.
+## Project Structure
 
-## Requirements
-- Google ADK
-- Python 3.8+
-- Required dependencies (see individual project READMEs)
+### Part A: Official ADK Codelabs
 
-Each subfolder contains:
-- Implementation code
-- README with setup instructions
-- YouTube video walkthrough link
+#### A1_Prototypes_to_Agents
+Kitchen renovation proposal agent demonstrating the transition from AI Studio prototyping to production ADK agents with Cloud Storage integration.
+
+#### A2_AI_Agents_with_Tools  
+Personal assistant agent enhanced with custom tools, Google Search, and sub-agent delegation patterns for complex task handling.
+
+#### A3_Travel_Agent_MCP
+Hotel search and booking agent using MCP Toolbox for Databases to enable natural language querying of Cloud SQL PostgreSQL databases.
+
+### Part B: Community Innovation
+
+#### B_Hackathon_Agent
+Advanced multi-agent system inspired by winning projects from the Google Cloud ADK Hackathon ($50,000 prize pool, 476 submissions worldwide).
+
+## Prerequisites
+
+- Google Cloud Platform account with billing enabled
+- Python 3.8+ or Java 11+
+- Agent Development Kit (ADK) installed
+- Access to Vertex AI and Gemini APIs
+
+## Quick Start
+
+```bash
+# Install ADK
+pip install google-adk
+
+# Set up credentials
+export GOOGLE_API_KEY="your-api-key"
+export GOOGLE_CLOUD_PROJECT="your-project-id"
+
+# Navigate to any project
+cd [A1_Prototypes_to_Agents | A2_AI_Agents_with_Tools | A3_Travel_Agent_MCP | B_Hackathon_Agent]
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch agent
+adk web
+```
+
+## Resources
+
+- [Agent Development Kit Documentation](https://google.github.io/adk-docs/)
+- [ADK Python GitHub](https://github.com/google/adk-python)
+- [Awesome ADK Agents Community](https://github.com/Sri-Krishna-V/awesome-adk-agents)
+- [ADK Hackathon Gallery](https://googlecloudmultiagents.devpost.com/project-gallery)
+
+Complete code implementations and video demonstrations available in respective directories.
