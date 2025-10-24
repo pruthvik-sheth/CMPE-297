@@ -1,5 +1,16 @@
-# From Prototypes to Agents with ADK
+# A1: From Prototypes to Agents with ADK
 
-📖 [Codelab Link](https://share.google/SedY3WmkMRCEkJrrA)
+## Task Overview
+Build a kitchen renovation agent that generates detailed proposal documents and stores them in Google Cloud Storage using ADK.
 
-🎥 [Demo Video](https://youtu.be/e_mXLbjDS_A)
+## What We're Building
+Single-agent system that processes renovation requests and creates PDF proposals with Cloud Storage integration.
+
+## Codelab Link
+[From Prototypes to Agents with ADK](https://codelabs.developers.google.com/your-first-agent-with-adk)
+
+## YouTube Demo
+🎥 [Implementation Demo - Kitchen Renovation Agent Walkthrough](https://youtu.be/u-ZwGVjMzAs)
+
+## Code Location
+Complete implementation available in the `A1_Prototypes_to_Agents` directory.
