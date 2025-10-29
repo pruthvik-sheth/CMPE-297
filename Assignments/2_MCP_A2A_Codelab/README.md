@@ -37,7 +37,7 @@ Build and deploy a hierarchical multi-agent system for image scoring using ADK a
 **What You'll Build**: An image scoring system with multiple specialized agents working together  
 **Key Focus**: Multi-agent architecture, ADK basics, A2A protocol, Agent Engine deployment  
 **Link**: https://codelabs.developers.google.com/codelabs/create-multi-agents-adk-a2a#0  
-**Video**: [Add your video link]  
+**Video**: https://youtu.be/ahKLAEmhv-4
 **Code**: `1_Multiagent_System_with_ADK/`
 
 ---
@@ -49,7 +49,7 @@ Create a currency converter agent that integrates all three technologies: MCP fo
 **What You'll Build**: A currency conversion agent accessible to other agents  
 **Key Focus**: MCP tool integration, ADK agent building, A2A exposure, Cloud Run deployment  
 **Link**: https://codelabs.developers.google.com/codelabs/currency-agent#0  
-**Video**: [Add your video link]  
+**Video**: https://youtu.be/t8su3M-3FPo
 **Code**: `2_Getting_started_with_ADK_MCP_A2A/`
 
 ---
@@ -61,7 +61,7 @@ Build a purchasing concierge system where agents built with different frameworks
 **What You'll Build**: A multi-framework purchasing system with specialized seller agents  
 **Key Focus**: Multi-framework integration, A2A client-server, microservices architecture  
 **Link**: https://codelabs.developers.google.com/intro-a2a-purchasing-concierge#0  
-**Video**: [Add your video link]  
+**Video**: https://youtu.be/B2rD2yquv1Y 
 **Code**: `3_Getting_Started_with_A2A_Action_Engine/`
 
 ---
