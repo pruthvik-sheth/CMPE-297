@@ -14,7 +14,7 @@ Full parameter fine-tuning on SmolLM2-135M (135M params, trained on 2T tokens). 
 
 Video Walkthrough: [Watch on YouTube](https://youtube.com/placeholder-link-a)
 
-Colab Notebook: [Open in Colab](https://colab.research.google.com/placeholder-link-a)
+Colab Notebook: [Open in Colab](https://colab.research.google.com/github/pruthvik-sheth/CMPE-297/blob/main/Assignments/5_Modern_AI_Unsloth/Notebooks/Colab1.ipynb)
 
 ---
 
@@ -24,7 +24,7 @@ Parameter-efficient fine-tuning using LoRA on SmolLM2-135M. QLoRA 4-bit quantiza
 
 Video Walkthrough: [Watch on YouTube](https://youtube.com/placeholder-link-b)
 
-Colab Notebook: [Open in Colab](https://colab.research.google.com/placeholder-link-b)
+Colab Notebook: [Open in Colab](https://colab.research.google.com/github/pruthvik-sheth/CMPE-297/blob/main/Assignments/5_Modern_AI_Unsloth/Notebooks/Colab2.ipynb)
 
 ---
 
@@ -34,7 +34,7 @@ Preference-based RL using datasets with preferred/rejected outputs. Implements D
 
 Video Walkthrough: [Watch on YouTube](https://youtube.com/placeholder-link-c)
 
-Colab Notebook: [Open in Colab](https://colab.research.google.com/placeholder-link-c)
+Colab Notebook: [Open in Colab](https://colab.research.google.com/github/pruthvik-sheth/CMPE-297/blob/main/Assignments/5_Modern_AI_Unsloth/Notebooks/Colab3.ipynb)
 
 ---
 
@@ -46,7 +46,7 @@ Train reasoning models using GRPO (Group Relative Policy Optimization) - the alg
 
 Video Walkthrough: [Watch on YouTube](https://youtube.com/placeholder-link-d)
 
-Colab Notebook: [Open in Colab](https://colab.research.google.com/placeholder-link-d)
+Colab Notebook: [Open in Colab](https://colab.research.google.com/github/pruthvik-sheth/CMPE-297/blob/main/Assignments/5_Modern_AI_Unsloth/Notebooks/Colab4.ipynb)
 
 ---
 
@@ -56,7 +56,7 @@ Teach LLMs new languages or expand knowledge domains using raw text data. Demons
 
 Video Walkthrough: [Watch on YouTube](https://youtube.com/placeholder-link-e)
 
-Colab Notebook: [Open in Colab](https://colab.research.google.com/placeholder-link-e)
+Colab Notebook: [Open in Colab](https://colab.research.google.com/github/pruthvik-sheth/CMPE-297/blob/main/Assignments/5_Modern_AI_Unsloth/Notebooks/Colab5.ipynb)
 
 ---
 
