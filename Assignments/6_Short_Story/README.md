@@ -24,8 +24,8 @@ This research is important for understanding LLM reliability, especially as thes
 
 - **Research Paper**: [arXiv:2503.07003](https://arxiv.org/abs/2503.07003)
 - **Medium Article**: [Read my detailed explanation](https://medium.com/@pns00911/when-ai-says-yes-but-does-no-the-troubling-gap-between-what-large-language-models-preach-and-4703df6d33b6)
-- **Presentation Slides**: [View Presentation](https://docs.google.com/presentation/d/fgdifgiuhiughwgsfhauf656)
-- **YouTube Demo**: [Watch Video Walkthrough](https://youtube.com/watch?v=sad65asd4a6s5d4asac5ffhfgj)
+- **Presentation Slides**: [View Presentation](https://www.slideshare.net/slideshow/large-language-models-often-say-one-thing-and-do-another/284588423)
+- **YouTube Demo**: [Watch Video Walkthrough](https://youtu.be/K8ee5PNixw8)
 
 ---
 
